@@ -1867,7 +1867,7 @@
                     <Task>
                       <option name="index" value="10" />
                       <option name="name" value="Fold" />
-                      <option name="status" value="Failed" />
+                      <option name="status" value="Unchecked" />
                       <option name="stepicId" value="0" />
                       <option name="text" />
                       <option name="taskFiles">
@@ -1907,7 +1907,7 @@
                                       <option name="possibleAnswer" value="val allProducts = customers.flatMap { it.orders.flatMap { it.products }}.toSet()&#10;    return customers.fold(allProducts, {&#10;        orderedByAll, customer -&gt;&#10;        orderedByAll.intersect(customer.orders.flatMap { it.products }.toSet())&#10;    })" />
                                       <option name="selected" value="false" />
                                       <option name="start" value="4" />
-                                      <option name="status" value="Failed" />
+                                      <option name="status" value="Unchecked" />
                                       <option name="taskText" />
                                     </AnswerPlaceholder>
                                   </list>
@@ -1942,7 +1942,7 @@
                     <Task>
                       <option name="index" value="11" />
                       <option name="name" value="Compound tasks" />
-                      <option name="status" value="Unchecked" />
+                      <option name="status" value="Solved" />
                       <option name="stepicId" value="0" />
                       <option name="text" />
                       <option name="taskFiles">
@@ -1977,12 +1977,12 @@
                                           <option name="myStart" value="4" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="6" />
+                                      <option name="length" value="75" />
                                       <option name="line" value="3" />
                                       <option name="possibleAnswer" value="return orders.filter { it.isDelivered }.flatMap { it.products }.maxBy { it.price }" />
-                                      <option name="selected" value="false" />
-                                      <option name="start" value="4" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="start" value="11" />
+                                      <option name="status" value="Solved" />
                                       <option name="taskText" />
                                     </AnswerPlaceholder>
                                     <AnswerPlaceholder>
@@ -1995,12 +1995,12 @@
                                           <option name="myStart" value="4" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="6" />
+                                      <option name="length" value="84" />
                                       <option name="line" value="9" />
                                       <option name="possibleAnswer" value="return customers.flatMap { it.getOrderedProductsList() }.count { it == product }" />
-                                      <option name="selected" value="false" />
-                                      <option name="start" value="4" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="selected" value="true" />
+                                      <option name="start" value="10" />
+                                      <option name="status" value="Solved" />
                                       <option name="taskText" />
                                     </AnswerPlaceholder>
                                     <AnswerPlaceholder>
@@ -2013,17 +2013,17 @@
                                           <option name="myStart" value="0" />
                                         </MyInitialState>
                                       </option>
-                                      <option name="length" value="10" />
+                                      <option name="length" value="0" />
                                       <option name="line" value="12" />
                                       <option name="possibleAnswer" value="fun Customer.getOrderedProductsList(): List&lt;Product&gt; {&#10;    return orders.flatMap { it.products }&#10;}" />
                                       <option name="selected" value="false" />
                                       <option name="start" value="0" />
-                                      <option name="status" value="Unchecked" />
+                                      <option name="status" value="Solved" />
                                       <option name="taskText" />
                                     </AnswerPlaceholder>
                                   </list>
                                 </option>
-                                <option name="highlightErrors" value="false" />
+                                <option name="highlightErrors" value="true" />
                                 <option name="index" value="-1" />
                                 <option name="trackChanges" value="true" />
                                 <option name="userCreated" value="false" />

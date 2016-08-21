@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0e1c59a9-f5b2-48dd-b375-c352904dd05f" name="Default" comment="" />
+    <list default="true" id="0e1c59a9-f5b2-48dd-b375-c352904dd05f" name="Default" comment="Lesson3, Task">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/study_project.xml" afterPath="$PROJECT_DIR$/.idea/study_project.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson3/task11/src/Task.kt" afterPath="$PROJECT_DIR$/lesson3/task11/src/Task.kt" />
+    </list>
     <ignored path="edu-kotlin-koans.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -23,57 +27,27 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="Task.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson3/task8/src/Task.kt">
+        <entry file="file://$PROJECT_DIR$/lesson3/task5/src/Task.kt">
           <provider selected="true" editor-type-id="StudyEditor">
             <state relative-caret-position="15">
-              <caret line="1" column="88" selection-start-line="1" selection-start-column="88" selection-end-line="1" selection-end-column="88" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Task.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson3/task9/src/Task.kt">
-          <provider selected="true" editor-type-id="StudyEditor">
-            <state relative-caret-position="75">
-              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Task.kt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lesson3/task10/src/Task.kt">
+        <entry file="file://$PROJECT_DIR$/lesson3/task11/src/Task.kt">
           <provider selected="true" editor-type-id="StudyEditor">
-            <state relative-caret-position="30">
-              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Standard.kt" pinned="false" current-in-tab="false">
-        <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-runtime-sources.jar!/kotlin/util/Standard.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="191">
-              <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Shop.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson3/task9/src/Shop.kt">
-          <provider selected="true" editor-type-id="StudyEditor">
-            <state relative-caret-position="30">
-              <caret line="2" column="73" selection-start-line="2" selection-start-column="73" selection-end-line="2" selection-end-column="73" />
+            <state relative-caret-position="180">
+              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="TestShop.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson3/task8/src/TestShop.kt">
+        <entry file="file://$PROJECT_DIR$/lesson3/task5/src/TestShop.kt">
           <provider selected="true" editor-type-id="StudyEditor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -83,10 +57,10 @@
         </entry>
       </file>
       <file leaf-file-name="Shop.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson3/task8/src/Shop.kt">
+        <entry file="file://$PROJECT_DIR$/lesson3/task5/src/Shop.kt">
           <provider selected="true" editor-type-id="StudyEditor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="0" column="13" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -146,6 +120,8 @@
         <option value="$PROJECT_DIR$/lesson3/task7/src/Task.kt" />
         <option value="$PROJECT_DIR$/lesson3/task8/src/Task.kt" />
         <option value="$PROJECT_DIR$/lesson3/task9/src/Task.kt" />
+        <option value="$PROJECT_DIR$/lesson3/task10/src/Task.kt" />
+        <option value="$PROJECT_DIR$/lesson3/task11/src/Task.kt" />
       </list>
     </option>
   </component>
@@ -205,10 +181,6 @@
               <option name="myItemId" value="lesson3" />
               <option name="myItemType" value="com.jetbrains.edu.learning.projectView.StudyDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="task12" />
-              <option name="myItemType" value="com.jetbrains.edu.utils.EduDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -226,38 +198,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="task11" />
               <option name="myItemType" value="com.jetbrains.edu.utils.EduDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="edu-kotlin-koans" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="edu-kotlin-koans" />
-              <option name="myItemType" value="com.jetbrains.edu.learning.projectView.StudyDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lesson3" />
-              <option name="myItemType" value="com.jetbrains.edu.learning.projectView.StudyDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="task10" />
-              <option name="myItemType" value="com.jetbrains.edu.utils.EduDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="edu-kotlin-koans" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="edu-kotlin-koans" />
-              <option name="myItemType" value="com.jetbrains.edu.learning.projectView.StudyDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lesson3" />
-              <option name="myItemType" value="com.jetbrains.edu.learning.projectView.StudyDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -575,7 +515,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1152" height="693" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -589,9 +529,9 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18648648" sideWeight="0.78275293" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18648648" sideWeight="0.78275293" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Course Progress" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1981982" sideWeight="0.2172471" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Task Description" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="true" show_stripe_button="true" weight="0.2595486" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="407" y="365" width="702" height="276" />
+      <window_info id="Task Description" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3054054" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="414" y="381" width="702" height="276" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24954955" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -634,74 +574,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lesson1/task5/src/Task.kt">
-      <provider selected="true" editor-type-id="StudyEditor">
-        <state relative-caret-position="0">
-          <caret line="0" column="93" selection-start-line="0" selection-start-column="93" selection-end-line="0" selection-end-column="93" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson1/task6/src/Task.kt">
-      <provider selected="true" editor-type-id="StudyEditor">
-        <state relative-caret-position="30">
-          <caret line="2" column="43" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson1/task7/src/Task.kt">
-      <provider selected="true" editor-type-id="StudyEditor">
-        <state relative-caret-position="60">
-          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson1/task8/src/Task.kt">
-      <provider selected="true" editor-type-id="StudyEditor">
-        <state relative-caret-position="90">
-          <caret line="6" column="48" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
-          <folding>
-            <marker date="1470953761000" expanded="true" signature="84:252" placeholder="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson1/task9/src/Task.kt">
-      <provider selected="true" editor-type-id="StudyEditor">
-        <state relative-caret-position="45">
-          <caret line="3" column="56" selection-start-line="3" selection-start-column="56" selection-end-line="3" selection-end-column="56" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson1/task10/src/Task.kt">
-      <provider selected="true" editor-type-id="StudyEditor">
-        <state relative-caret-position="45">
-          <caret line="3" column="46" selection-start-line="3" selection-start-column="46" selection-end-line="3" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson1/task12/src/Task.kt">
-      <provider selected="true" editor-type-id="StudyEditor">
-        <state relative-caret-position="75">
-          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-          <folding>
-            <marker date="1471088058000" expanded="true" signature="45:176" placeholder="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson1/task13/src/Task.kt">
-      <provider selected="true" editor-type-id="StudyEditor">
-        <state relative-caret-position="30">
-          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-runtime-sources.jar!/kotlin/Range.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -918,30 +790,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson3/task5/src/TestShop.kt">
-      <provider selected="true" editor-type-id="StudyEditor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson3/task5/src/Shop.kt">
-      <provider selected="true" editor-type-id="StudyEditor">
-        <state relative-caret-position="30">
-          <caret line="2" column="62" selection-start-line="2" selection-start-column="62" selection-end-line="2" selection-end-column="62" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson3/task5/src/Task.kt">
-      <provider selected="true" editor-type-id="StudyEditor">
-        <state relative-caret-position="60">
-          <caret line="4" column="46" selection-start-line="4" selection-start-column="46" selection-end-line="4" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lesson3/task6/src/TestShop.kt">
       <provider selected="true" editor-type-id="StudyEditor">
         <state relative-caret-position="0">
@@ -1014,6 +862,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-runtime-sources.jar!/kotlin/util/Standard.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson3/task9/src/TestShop.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lesson3/task9/src/Shop.kt">
       <provider selected="true" editor-type-id="StudyEditor">
         <state relative-caret-position="30">
@@ -1024,24 +888,96 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lesson3/task9/src/Task.kt">
       <provider selected="true" editor-type-id="StudyEditor">
-        <state relative-caret-position="75">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        <state relative-caret-position="90">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-runtime-sources.jar!/kotlin/util/Standard.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+    <entry file="file://$PROJECT_DIR$/lesson3/task10/src/TestShop.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson3/task10/src/Shop.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lesson3/task10/src/Task.kt">
       <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="45">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-runtime-sources.jar!/generated/_Collections.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="1458" column="43" selection-start-line="1458" selection-start-column="43" selection-end-line="1458" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson3/task5/src/tests.kt">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson3/task11/src/TestShop.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson3/task11/src/Shop.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="90">
+          <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson3/task5/src/TestShop.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson3/task5/src/Shop.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="13" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson3/task5/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="15">
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson3/task11/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="180">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
         </state>
       </provider>
