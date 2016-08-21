@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e1c59a9-f5b2-48dd-b375-c352904dd05f" name="Default" comment="Get used to new style">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/lesson4-task3/LazyProperty.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/lesson4-task3/TestDelegatesExamples$initializedOnce$lazyProperty$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/lesson4-task3/TestDelegatesExamples$testLazy$lazyProperty$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/lesson4-task3/TestDelegatesExamples.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/lesson4-task3/task.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/study_project.xml" afterPath="$PROJECT_DIR$/.idea/study_project.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson4/task2/src/Task.kt" afterPath="$PROJECT_DIR$/lesson4/task2/src/Task.kt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson4/task3/src/Task.kt" afterPath="$PROJECT_DIR$/lesson4/task3/src/Task.kt" />
     </list>
     <ignored path="edu-kotlin-koans.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,7 +31,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Task.kt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Task.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lesson4/task2/src/Task.kt">
           <provider selected="true" editor-type-id="StudyEditor">
             <state relative-caret-position="105">
@@ -35,11 +41,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Task.kt" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Task.kt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lesson4/task3/src/Task.kt">
           <provider selected="true" editor-type-id="StudyEditor">
             <state relative-caret-position="15">
-              <caret line="1" column="26" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
+              <caret line="1" column="43" selection-start-line="1" selection-start-column="43" selection-end-line="1" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -124,6 +130,7 @@
         <option value="$PROJECT_DIR$/lesson3/task12/src/Task.kt" />
         <option value="$PROJECT_DIR$/lesson4/task1/src/Task.kt" />
         <option value="$PROJECT_DIR$/lesson4/task2/src/Task.kt" />
+        <option value="$PROJECT_DIR$/lesson4/task3/src/Task.kt" />
       </list>
     </option>
   </component>
@@ -159,104 +166,7 @@
     <panes>
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="edu-kotlin-koans" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="edu-kotlin-koans" />
-              <option name="myItemType" value="com.jetbrains.edu.learning.projectView.StudyDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="edu-kotlin-koans" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="edu-kotlin-koans" />
-              <option name="myItemType" value="com.jetbrains.edu.learning.projectView.StudyDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lesson4" />
-              <option name="myItemType" value="com.jetbrains.edu.learning.projectView.StudyDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="task4" />
-              <option name="myItemType" value="com.jetbrains.edu.utils.EduDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="edu-kotlin-koans" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="edu-kotlin-koans" />
-              <option name="myItemType" value="com.jetbrains.edu.learning.projectView.StudyDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lesson4" />
-              <option name="myItemType" value="com.jetbrains.edu.learning.projectView.StudyDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="task3" />
-              <option name="myItemType" value="com.jetbrains.edu.utils.EduDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="edu-kotlin-koans" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="edu-kotlin-koans" />
-              <option name="myItemType" value="com.jetbrains.edu.learning.projectView.StudyDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lesson4" />
-              <option name="myItemType" value="com.jetbrains.edu.learning.projectView.StudyDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="task2" />
-              <option name="myItemType" value="com.jetbrains.edu.utils.EduDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="edu-kotlin-koans" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="edu-kotlin-koans" />
-              <option name="myItemType" value="com.jetbrains.edu.learning.projectView.StudyDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lesson4" />
-              <option name="myItemType" value="com.jetbrains.edu.learning.projectView.StudyDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="task1" />
-              <option name="myItemType" value="com.jetbrains.edu.utils.EduDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="edu-kotlin-koans" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="edu-kotlin-koans" />
-              <option name="myItemType" value="com.jetbrains.edu.learning.projectView.StudyDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lesson3" />
-              <option name="myItemType" value="com.jetbrains.edu.learning.projectView.StudyDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
+        <subPane />
       </pane>
       <pane id="Scope" />
       <pane id="Scratches" />
@@ -600,7 +510,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18648648" sideWeight="0.78275293" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18648648" sideWeight="0.78275293" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Course Progress" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1981982" sideWeight="0.2172471" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Task Description" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33423424" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="414" y="381" width="702" height="276" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1026,14 +936,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson4/task3/src/Task.kt">
-      <provider selected="true" editor-type-id="StudyEditor">
-        <state relative-caret-position="15">
-          <caret line="1" column="26" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lesson4/task4/src/Task.kt">
       <provider selected="true" editor-type-id="StudyEditor">
         <state relative-caret-position="180">
@@ -1054,6 +956,14 @@
       <provider selected="true" editor-type-id="StudyEditor">
         <state relative-caret-position="105">
           <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson4/task3/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="15">
+          <caret line="1" column="43" selection-start-line="1" selection-start-column="43" selection-end-line="1" selection-end-column="43" />
           <folding />
         </state>
       </provider>
