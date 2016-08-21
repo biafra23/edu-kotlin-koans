@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0e1c59a9-f5b2-48dd-b375-c352904dd05f" name="Default" comment="Lesson3, Task">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/study_project.xml" afterPath="$PROJECT_DIR$/.idea/study_project.xml" />
+    <list default="true" id="0e1c59a9-f5b2-48dd-b375-c352904dd05f" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson3/task11/src/Task.kt" afterPath="$PROJECT_DIR$/lesson3/task11/src/Task.kt" />
     </list>
     <ignored path="edu-kotlin-koans.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,11 +34,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Task.kt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Task.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lesson3/task11/src/Task.kt">
           <provider selected="true" editor-type-id="StudyEditor">
             <state relative-caret-position="180">
               <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Task.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lesson3/task12/src/Task.kt">
+          <provider selected="true" editor-type-id="StudyEditor">
+            <state relative-caret-position="105">
+              <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -122,6 +130,7 @@
         <option value="$PROJECT_DIR$/lesson3/task9/src/Task.kt" />
         <option value="$PROJECT_DIR$/lesson3/task10/src/Task.kt" />
         <option value="$PROJECT_DIR$/lesson3/task11/src/Task.kt" />
+        <option value="$PROJECT_DIR$/lesson3/task12/src/Task.kt" />
       </list>
     </option>
   </component>
@@ -181,6 +190,10 @@
               <option name="myItemId" value="lesson3" />
               <option name="myItemType" value="com.jetbrains.edu.learning.projectView.StudyDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="task12" />
+              <option name="myItemType" value="com.jetbrains.edu.utils.EduDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -194,10 +207,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="lesson3" />
               <option name="myItemType" value="com.jetbrains.edu.learning.projectView.StudyDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="task11" />
-              <option name="myItemType" value="com.jetbrains.edu.utils.EduDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -511,6 +520,21 @@
       <option name="presentableId" value="Default" />
       <updated>1469645242608</updated>
     </task>
+    <task id="LOCAL-00001" summary="Compund Tasks">
+      <created>1471806905557</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1471806905557</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Get used to new style">
+      <created>1471807703592</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1471807703592</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -531,7 +555,7 @@
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18648648" sideWeight="0.78275293" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Course Progress" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1981982" sideWeight="0.2172471" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Task Description" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3054054" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="414" y="381" width="702" height="276" />
+      <window_info id="Task Description" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33423424" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="414" y="381" width="702" height="276" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24954955" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -556,6 +580,11 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Compund Tasks" />
+    <MESSAGE value="Get used to new style" />
+    <option name="LAST_COMMIT_MESSAGE" value="Get used to new style" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -574,14 +603,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$KOTLIN_BUNDLED$/lib/kotlin-runtime-sources.jar!/kotlin/Range.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lesson2/task1/src/Task.kt">
       <provider selected="true" editor-type-id="StudyEditor">
         <state relative-caret-position="45">
@@ -978,6 +999,14 @@
       <provider selected="true" editor-type-id="StudyEditor">
         <state relative-caret-position="180">
           <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson3/task12/src/Task.kt">
+      <provider selected="true" editor-type-id="StudyEditor">
+        <state relative-caret-position="105">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
           <folding />
         </state>
       </provider>
